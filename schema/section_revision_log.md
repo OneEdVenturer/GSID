@@ -1,0 +1,11 @@
+section_revision_log
+- revision_id (PK)
+- section_id (FK -> section_profile)
+- changed_entity                       -- profile / geometry / alias / properties
+- changed_record_id
+- change_type                          -- create / update / supersede / deprecate
+- old_value_snapshot
+- new_value_snapshot
+- reason_for_change
+- changed_by
+- changed_at

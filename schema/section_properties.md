@@ -1,0 +1,23 @@
+section_properties
+- property_id (PK)
+- geometry_id (FK -> section_geometry)
+- property_basis                      -- calculated / imported / verified
+- area
+- ix
+- iy
+- rx
+- ry
+- j
+- cw
+- x0
+- y0
+- beta
+- shear_center_x
+- shear_center_y
+- torsion_constant_method
+- warping_constant_method
+- generated_by_engine
+- generated_by_version
+- verified_flag
+- source_id (FK -> source_evidence)
+- notes

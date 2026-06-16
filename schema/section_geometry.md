@@ -1,0 +1,23 @@
+section_geometry
+- geometry_id (PK)
+- section_id (FK -> section_profile)
+- geometry_basis                      -- nominal / measured / vendor-declared / reverse-engineered
+- web_depth
+- flange_width_1
+- flange_width_2
+- lip_length_1
+- lip_length_2
+- return_length_1
+- return_length_2
+- inside_radius_1
+- inside_radius_2
+- corner_count
+- thickness_base
+- thickness_coating_excluded         -- yes/no
+- area_input
+- centroid_x
+- centroid_y
+- comments
+- source_id (FK -> source_evidence)
+- effective_date
+- superseded_by_geometry_id
