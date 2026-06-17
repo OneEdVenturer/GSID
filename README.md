@@ -35,3 +35,17 @@ It enables:
 GSID is a neutral identity system.
 
 It is not tied to SMHE operations, though SMHE may use it.
+
+## Current State
+
+GSID v0.1 is an initialization of structure and identity logic.
+
+This version is intentionally minimal and serves to establish:
+- system boundaries
+- naming conventions
+- schema direction
+
+Future iterations will expand:
+- geometry detail
+- alias mapping
+- property calculations

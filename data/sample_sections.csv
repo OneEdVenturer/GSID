@@ -1,0 +1,6 @@
+gsid_code,shape,depth,width,lip,thickness,description
+GSID-C-3.000-1.625-0.500-0.060-A,C,3.000,1.625,0.500,0.060,Standard teardrop upright
+GSID-C-4.000-1.750-0.625-0.075-A,C,4.000,1.750,0.625,0.075,Heavy upright
+GSID-C-2.500-1.500-0.375-0.048-A,C,2.500,1.500,0.375,0.048,Light upright
+GSID-STEP-4.000-2.000-0.250-0.075-A,Step,4.000,2.000,0.250,0.075,Step beam
+GSID-BOX-3.500-1.500-0.000-0.090-A,Box,3.500,1.500,0.000,0.090,Box beam

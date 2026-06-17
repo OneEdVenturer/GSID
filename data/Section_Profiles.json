@@ -1,0 +1,62 @@
+[
+  {
+    "section_id": "UUID-001",
+    "gsid_code": "GSID-C-3.000-1.625-0.500-0.060-A",
+    "family_id": "upright_teardrop",
+    "nominal_depth": 3.000,
+    "nominal_width": 1.625,
+    "nominal_lip": 0.500,
+    "nominal_thickness": 0.060,
+    "shape_class": "C",
+    "symmetry_class": "mono-symmetric",
+    "description": "Standard teardrop upright section ~3in depth"
+  },
+  {
+    "section_id": "UUID-002",
+    "gsid_code": "GSID-C-4.000-1.750-0.625-0.075-A",
+    "family_id": "upright_teardrop",
+    "nominal_depth": 4.000,
+    "nominal_width": 1.750,
+    "nominal_lip": 0.625,
+    "nominal_thickness": 0.075,
+    "shape_class": "C",
+    "symmetry_class": "mono-symmetric",
+    "description": "Heavy-duty upright section ~4in depth"
+  },
+  {
+    "section_id": "UUID-003",
+    "gsid_code": "GSID-C-2.500-1.500-0.375-0.048-A",
+    "family_id": "upright_teardrop",
+    "nominal_depth": 2.500,
+    "nominal_width": 1.500,
+    "nominal_lip": 0.375,
+    "nominal_thickness": 0.048,
+    "shape_class": "C",
+    "symmetry_class": "mono-symmetric",
+    "description": "Light-duty upright section"
+  },
+  {
+    "section_id": "UUID-004",
+    "gsid_code": "GSID-STEP-4.000-2.000-0.250-0.075-A",
+    "family_id": "beam_step",
+    "nominal_depth": 4.000,
+    "nominal_width": 2.000,
+    "nominal_lip": 0.250,
+    "nominal_thickness": 0.075,
+    "shape_class": "step_beam",
+    "symmetry_class": "symmetric",
+    "description": "Typical warehouse step beam section"
+  },
+  {
+    "section_id": "UUID-005",
+    "gsid_code": "GSID-BOX-3.500-1.500-0.000-0.090-A",
+    "family_id": "beam_box",
+    "nominal_depth": 3.500,
+    "nominal_width": 1.500,
+    "nominal_lip": 0.000,
+    "nominal_thickness": 0.090,
+    "shape_class": "box",
+    "symmetry_class": "symmetric",
+    "description": "Closed box beam section"
+  }
+]

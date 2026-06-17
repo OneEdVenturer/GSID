@@ -1,0 +1,12 @@
+{
+  "section_id": "UUID-003",
+  "gsid_code": "GSID-C-2.500-1.500-0.375-0.048-A",
+  "family_id": "upright_teardrop",
+  "nominal_depth": 2.500,
+  "nominal_width": 1.500,
+  "nominal_lip": 0.375,
+  "nominal_thickness": 0.048,
+  "shape_class": "C",
+  "symmetry_class": "mono-symmetric",
+  "description": "Light-duty upright section"
+}

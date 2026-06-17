@@ -1,0 +1,12 @@
+{
+  "section_id": "UUID-005",
+  "gsid_code": "GSID-BOX-3.500-1.500-0.000-0.090-A",
+  "family_id": "beam_box",
+  "nominal_depth": 3.500,
+  "nominal_width": 1.500,
+  "nominal_lip": 0.000,
+  "nominal_thickness": 0.090,
+  "shape_class": "box",
+  "symmetry_class": "symmetric",
+  "description": "Closed box beam section"
+}

@@ -1,0 +1,12 @@
+{
+  "section_id": "UUID-004",
+  "gsid_code": "GSID-STEP-4.000-2.000-0.250-0.075-A",
+  "family_id": "beam_step",
+  "nominal_depth": 4.000,
+  "nominal_width": 2.000,
+  "nominal_lip": 0.250,
+  "nominal_thickness": 0.075,
+  "shape_class": "step_beam",
+  "symmetry_class": "symmetric",
+  "description": "Typical warehouse step beam section"
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "section_id": "UUID-001",
+    "alias_type": "manufacturer",
+    "alias_value": "TD Upright 3x",
+    "manufacturer_id": "unknown",
+    "confidence_level": "probable"
+  },
+  {
+    "section_id": "UUID-001",
+    "alias_type": "intake",
+    "alias_value": "3in Upright",
+    "confidence_level": "exact"
+  },
+  {
+    "section_id": "UUID-004",
+    "alias_type": "manufacturer",
+    "alias_value": "4in Step Beam",
+    "confidence_level": "exact"
+  },
+  {
+    "section_id": "UUID-004",
+    "alias_type": "legacy",
+    "alias_value": "SB-4000",
+    "confidence_level": "weak"
+  }
+]
